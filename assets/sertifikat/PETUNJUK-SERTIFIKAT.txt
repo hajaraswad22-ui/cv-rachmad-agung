@@ -1,0 +1,1 @@
+Letakkan file sertifikat JPG/PNG di folder ini. Tambahkan nama dan tahun sertifikat ke index.html.
